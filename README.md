@@ -29,27 +29,27 @@
 
 - cheshuo (less spp)
 
-    ![](CUDA_Path_Tracer/result/gsc.jpg)
+    ![gsc.jpg](https://i.loli.net/2020/07/02/evAhOcJXB69qslg.jpg)
 
 - haokande cheshuo (2000 spp)
 
-    ![](CUDA_Path_Tracer/result/cheshuo.jpg)
+    ![cheshuo.jpg](https://i.loli.net/2020/07/02/yt2bZc9Ka3VrM5I.jpg)
 
 - 爷是阿吽
 
-    ![](CUDA_Path_Tracer/result/koishi_1.jpg)
+    ![koishi_1.jpg](https://i.loli.net/2020/07/02/QEbaiJCHl9hAdNR.jpg)
 
 - 神必长方体（随机Cook-Torrance材质）
 
-    ![](CUDA_Path_Tracer/result/random3.jpg)
+    ![random3.jpg](https://i.loli.net/2020/07/02/GLbV8tKHzf7mvOy.jpg)
 
 - 神必长方体2（法线贴图）
 
-    ![](CUDA_Path_Tracer/result/random4.jpg)
+    ![random4.jpg](https://i.loli.net/2020/07/02/JOkDQNIFSs5Z964.jpg)
 
 - 大家佛（```buddha.mp4```中的一帧，完整视频位于```result/buddha/```下）
 
-    ![](CUDA_Path_Tracer/result/buddha/buddha_1.jpg)
+    ![buddha_1.jpg](https://i.loli.net/2020/07/02/Hc8ZsnNC5hJWB36.jpg)
 
 ## Usage
 
