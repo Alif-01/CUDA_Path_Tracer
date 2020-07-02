@@ -27,25 +27,29 @@
 
 ## Results
 
-- cheshuo
+- cheshuo (less spp)
 
     ![](CUDA_Path_Tracer/result/gsc.jpg)
 
+- haokande cheshuo (2000 spp)
+
+    ![](CUDA_Path_Tracer/result/cheshuo.jpg)
+
 - 爷是阿吽
 
-    ![](CUDA_Path_Tracer/result/koishi.jpg)
+    ![](CUDA_Path_Tracer/result/koishi_1.jpg)
 
 - 神必长方体（随机Cook-Torrance材质）
 
-    ![](CUDA_Path_Tracer/result/random3.bmp)
+    ![](CUDA_Path_Tracer/result/random3.jpg)
 
 - 神必长方体2（法线贴图）
 
-    ![](CUDA_Path_Tracer/result/random4.bmp)
+    ![](CUDA_Path_Tracer/result/random4.jpg)
 
-- 大家佛（此为```buddha.mp4```中的一帧，完整视频位于```result/buddha/```下）
+- 大家佛（```buddha.mp4```中的一帧，完整视频位于```result/buddha/```下）
 
-    ![](CUDA_Path_Tracer/result/buddha/buddha.jpg)
+    ![](CUDA_Path_Tracer/result/buddha/buddha_1.jpg)
 
 ## Usage
 
