@@ -50,9 +50,3 @@
 - 大家佛（```buddha.mp4```中的一帧，完整视频位于```result/buddha/```下）
 
     ![buddha_1.jpg](https://i.loli.net/2020/07/02/Hc8ZsnNC5hJWB36.jpg)
-
-## Usage
-
-如需运行代码，请自行配置OpenGL及CUDA相关。其余详见代码111
-
-由于模型、材质等资源文件过大，故未放出，如有需要请联系zjt
